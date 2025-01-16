@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html lang=”es”>
+	<head>
+		<meta charset="utf-8"/>
+		<title>Metaphor wiki</title>
+	</head> <!DOCTYPE html>
+<html lang=”es”>
+	<head>
+		<meta charset="utf-8"/>
+		<title>Metaphor wiki</title>
+		<style type="text/css">
+		#menuhorizontal {width:327px;
+						border:3px solid grey;
+						border-radius:5px;
+						float:left;
+						margin-left:300px;
+						font-size:150%;}
+		#menuhorizontal a {padding:0px 25px 0px;
+							color:black;
+							background:green;
+							text-decoration:none;}
+		
+		#menuhorizontal a:hover{
+						background:orange;
+						color:white;}
+		li {list-style-type:none;}
+		ul{padding-left:0px;}
+		</style>
+	</head> 
+	<body text="#000000" BGCOLOR="red">
+		<h2><A HREF = Registro.html > Registrarse </A> </h2></br>
+		<marquee><h1>Trailer</h1></marquee><br/>
+		<center><video src="Trailer.mp4" controls width=700 height=450 type="video/mp4"></video><br/><br/><br/>
+			<h2>Donde comprar</h2>
+			<div id="menuhorizontal">
+				<a href="https://www.game.es/VIDEOJUEGOS/ROL/PLAYSTATION-5/METAPHOR-REFANTAZIO/230731"> Game </a>
+				<a href="https://www.g2a.com/es/search?query=metaphor%20refantazio"> G2A </a>
+				<A href="https://www.eneba.com/es/marketplace?text=metaphor%20refantazio&sortBy=RELEVANCE_DESC&enb_campaign=Main%20Search&enb_content=search%20dropdown%20-%20input&enb_medium=input&enb_source=https%3A%2F%2Fwww.eneba.com%2F&enb_term=Submit"> Eneba </A>
+			</div>
+			<br/>
+			<h2>Trozo del mapa</h2><br/>
+			<img src="mapa.png" usemap="#mapa">
+			
+			<map name="mapa">
+			<area target="_blank" alt="Martira" title="Martira" href="https://www.ign.com/wikis/metaphor-refantazio/The_Old_Castle_Town_Kidnapper_Walkthrough_(Beneath_Martira_Castle_Dungeon)" coords="201,203,349,346" shape="rect">
+			<area target="_blank" alt="Guarida del diablo" title="Guarida del diablo" href="https://game8.co/games/Metaphor-ReFantazio/archives/478863" coords="542,263,408,167" shape="rect">
+			<area target="_blank" alt="Komaro" title="Komaro" href="https://game8.co/games/Metaphor-ReFantazio/archives/480295" coords="359,322,459,263" shape="rect">
+			<area target="_blank" alt="Gruta caníbal" title="Gruta caníbal" href="https://game8.co/games/Metaphor-ReFantazio/archives/479621" coords="553,310,471,377" shape="rect">
+			<area target="_blank" alt="Arenas del sol de medianoche" title="Arenas del sol de medianoche" href="https://game8.co/games/Metaphor-ReFantazio/archives/479308" coords="44,205,159,323" shape="rect">
+			<area target="_blank" alt="Nido del gusano de arena gigante" title="Nido del gusano de arena gigante" href="https://www.ign.com/wikis/metaphor-refantazio/Giant_Sandworm_Den_Walkthrough" coords="199,124,313,182" shape="rect">
+			</map><br/>
+			
+			<h2>Pruebas de Música </h2><br/>
+			<audio src="musicabatalla.mp3" controls> Musica de batalla </audio>
+			<audio src="musica Grand Trad.mp3" controls> Musica de Gran Trad </audio>
+			<audio src="musica Martira.mp3" controls> Musica de Martira </audio>
+			<audio src="musica Brilehaven.mp3" controls> Musica de Brilehaven </audio>
+			<audio src="musica Isla Virgo.mp3" controls> Musica de Isla Virgo </audio>
+			<audio src="musica Altabury.mp3" controls> Musica de Altabury </audio>
+	
+		
+		<TABLE BORDER BGCOLOR="#ffffff">
+		<h3>
+		<TR>
+		<TD width=200>
+		<ol>
+			<li/><details><summary><A HREF = "#personajes">Personajes</A></summary>
+				<ul type=none>
+					<li/>Protagonista
+					<li/>Gallica
+					<li/>More
+					<li/>Strohl
+					<li/>María
+					<li/>Hulkenberg
+					<li/>Catherina
+					<li/>Brigita
+					<li/>Neuras
+					<li/>Heismay
+					<li/>Bardon
+					<li/>Alonzo
+					<li/>Junah
+					<li/>Eupha
+					<li/>Basilio
+				</ul>
+				</details>
+			<li/><details><summary><A HREF = "#arquetipos">Arquetipos</A></summary>
+			<ul type=none>
+					<li/>Explorador
+					<li/>Mago
+					<li/>Guerrero
+					<li/>Sanador
+					<li/>Caballero
+					<li/>Luchador
+					<li/>Mercader
+					<li/>Pistolero
+					<li/>Ladrón
+					<li/>Comandante
+					<li/>Farsante
+					<li/>Bailarín enmascarado
+					<li/>Invocador
+					<li/>Berserker
+				</ul>
+				</details>
+			<li/><details><summary><A HREF = "#ciudades">Ciudades</A></summary>
+			<ul type=none>
+					<li/>Gran Trad
+					<li/>Martira
+					<li/>Brilehaven
+					<li/>Isla Virgo
+					<li/>Altabury
+				</ul>
+				</details>
+		</ol>
+		</h3>
+		</TD>
+		</TR>
+		</TABLE>
+		
+		
+		</center> 
+		<br/>
+		
+		<h1><b><A ID = "personajes"> 1.Personajes </A><b/></h1>
+		<ul>
+			<li/> <h2>Protagonista</h2><br/>
+			<TABLE BORDER BGCOLOR="#ffffff">
+				<TR>
+				<TD> <img src="prota.png"> </TD> <TD>Un joven de la tribu Elda que ha sido condenado al ostracismo por la sociedad en general por estar "manchado" con la herencia de la magia prohibida y, a menudo, está sujeto a discriminación y prejuicios como resultado.</TD>
+				</TR>
+				<TR>
+				<TD>Arquetipo desbloqueado</TD><TD> Ninguno</TD>
+				</TR>
+				<TR>
+				<TD>Raza</TD><TD> Elda</TD>
+				</TR>
+				<TR>
+				<TD>Procedencia</TD><TD> Desconocida</TD>
+				</TR>
+				<TR>
+				<TD>Plato favorito</TD><TD>Desconocido</TD>
+				</TR>
+			</TABLE>
+			
+			<li/> <h2>Gallica</h2><br/>
+			<TABLE BORDER BGCOLOR="#ffffff">
+				<TR>
+				<TD> <img src="gallica.png"> </TD> <TD>Es un hada y compañera del protagonista , acompañándolo desde el comienzo de su viaje. Aunque es franca, también es amable con el protagonista. No participa en combate porque es un hada, pero es muy conocedora.</TD>
+				</TR>
+				<TR>
+				<TD>Arquetipo desbloqueado</TD><TD> Mago</TD>
+				</TR>
+				<TR>
+				<TD>Raza</TD><TD> Hada</TD>
+				</TR>
+				<TR>
+				<TD>Procedencia</TD><TD> Antiguo santuario elda</TD>
+				</TR>
+				<TR>
+				<TD>Plato favorito</TD><TD> Bebida de frutas</TD>
+				</TR>
+			</TABLE>
+			
+			<li/> <h2> More</h2><br/>
+			<TABLE BORDER BGCOLOR="#ffffff">
+				<TR>
+				<TD> <img src="more.png"> </TD> <TD>Es el guardián de Akademeia , la instalación para la personalización de arquetipos . También es el autor de la novela de fantasía que el protagonista lleva consigo. More está "encarcelado" dentro de Akademeia. También es uno de los seguidores del protagonista ..</TD>
+				</TR>
+				<TR>
+				<TD>Arquetipo desbloqueado</TD><TD> Explorador</TD>
+				</TR>
+				<TR>
+				<TD>Raza</TD><TD> Clemar</TD>
+				</TR>
+				<TR>
+				<TD>Procedencia</TD><TD> Desconocida</TD>
+				</TR>
+				<TR>
+				<TD>Plato favorito</TD><TD> Ninguno</TD>
+				</TR>
+			</TABLE>
+			
+			<li/> <h2>Strohl</h2><br/>
+			<TABLE BORDER BGCOLOR="#ffffff">
+				<TR>
+				<TD> <img src="strohl.png"> </TD> <TD>Pertenece a la populosa tribu Clemar y es hijo del Conde de Halia, un noble. Se alista en el Ejército del Estado y se encuentra con el protagonista en el centro de reclutamiento. Strohl tiene circunstancias complicadas, ya que es raro que un noble se aliste en el ejército. Parece odiar a los " humanos ", los monstruos de Metaphor: ReFantazio . Aparentemente, su ciudad natal ha sido arruinada.</TD>
+				</TR>
+				<TR>
+				<TD>Arquetipo desbloqueado</TD><TD> Guerrero</TD>
+				</TR>
+				<TR>
+				<TD>Raza</TD><TD>Clemar</TD>
+				</TR>
+				<TR>
+				<TD>Procedencia</TD><TD> Halia</TD>
+				</TR>
+				<TR>
+				<TD>Plato favorito</TD><TD> Bidó a la yerbarroja</TD>
+				</TR>
+			</TABLE>
+			
+			<li/> <h2>María</h2><br/>
+			<TABLE BORDER BGCOLOR="#ffffff">
+				<TR>
+				<TD> <img src="maria.png"> </TD> <TD>Hija de Arvid Alces , reside en el Hushed Honeybee Inn y su cuidadora es Fabienne Vulpes . Ha sido separada de sus padres por la muerte y no tiene amigos debido a su origen mixto de herencia tribal rhoag e ishkia . Ella es una de las seguidoras del protagonista ..</TD>
+				</TR>
+				<TR>
+				<TD>Arquetipo desbloqueado</TD><TD> Sanador</TD>
+				</TR>
+				<TR>
+				<TD>Raza</TD><TD> Ishkia y Rhoag</TD>
+				</TR>
+				<TR>
+				<TD>Procedencia</TD><TD> Desconocida</TD>
+				</TR>
+				<TR>
+				<TD>Plato favorito</TD><TD> Pan revitalizante</TD>
+				</TR>
+			</TABLE>
+			
+			<li/> <h2>Hulkenberg</h2><br/>
+			<TABLE BORDER BGCOLOR="#ffffff">
+				<TR>
+				<TD> <img src="hulkenberg.png"> </TD> <TD>es una caballero de la populosa tribu roussainte , y fue un ex miembro de la Guardia Real de la familia real que sirvió, pero fracasó, para proteger al príncipe de ser asesinado, vagando por el reino avergonzada. Después de enterarse de la muerte del rey Hythlodaeus V , regresa al combate..</TD>
+				</TR>
+				<TR>
+				<TD>Arquetipo desbloqueado</TD><TD> Caballero</TD>
+				</TR>
+				<TR>
+				<TD>Raza</TD><TD> Roussainte</TD>
+				</TR>
+				<TR>
+				<TD>Procedencia</TD><TD> Región de Hulkenmont</TD>
+				</TR>
+				<TR>
+				<TD>Plato favorito</TD><TD> Puchero divino</TD>
+				</TR>
+			</TABLE>
+
+			<li/> <h2>Catherina</h2><br/>
+			<TABLE BORDER BGCOLOR="#ffffff">
+				<TR>
+				<TD> <img src="catherina.png"> </TD> <TD> Es una cazarrecompensas y candidata al Torneo Real, y se compromete a defender a su tribu paripus , que a menudo es menospreciada, y a hacerlos más ricos. A pesar de ser rival del protagonista en las elecciones, también es una de sus seguidoras ..</TD>
+				</TR>
+				<TR>
+				<TD>Arquetipo desbloqueado</TD><TD> Luchador</TD>
+				</TR>
+				<TR>
+				<TD>Raza</TD><TD>Paripús</TD>
+				</TR>
+				<TR>
+				<TD>Procedencia</TD><TD> Pueblo Desconocido</TD>
+				</TR>
+				<TR>
+				<TD>Plato favorito</TD><TD> Rosquilla desestresante</TD>
+				</TR>
+			</TABLE>
+			
+			<li/> <h2>Brigita</h2><br/>
+			<TABLE BORDER BGCOLOR="#ffffff">
+				<TR>
+				<TD> <img src="brigitte.png"> </TD> <TD>Es dueña de una tienda de encendedores en Royal Capital Grand Trad . Es una de las seguidoras del protagonista ..</TD>
+				</TR>
+				<TR>
+				<TD>Arquetipo desbloqueado</TD><TD> Mercader</TD>
+				</TR>
+				<TR>
+				<TD>Raza</TD><TD> Rhoag</TD>
+				</TR>
+				<TR>
+				<TD>Procedencia</TD><TD> Gran Trad</TD>
+				</TR>
+				<TR>
+				<TD>Plato favorito</TD><TD> Néctar puro</TD>
+				</TR>
+			</TABLE>
+			
+			<li/> <h2>Neuras</h2><br/>
+			<TABLE BORDER BGCOLOR="#ffffff">
+				<TR>
+				<TD> <img src="neuras.png"> </TD> <TD>Es el piloto del surcador acorazado en el que viajan el protagonista y su compañía. Originalmente era un ingeniero de la familia real. También es uno de los seguidores del protagonista ..</TD>
+				</TR>
+				<TR>
+				<TD>Arquetipo desbloqueado</TD><TD> Pistolero</TD>
+				</TR>
+				<TR>
+				<TD>Raza</TD><TD> Ishkia</TD>
+				</TR>
+				<TR>
+				<TD>Procedencia</TD><TD> Gran Trad</TD>
+				</TR>
+				<TR>
+				<TD>Plato favorito</TD><TD> Queso arcoíris</TD>
+				</TR>
+			</TABLE>
+			
+			<li/> <h2>Heismay</h2><br/>
+			<TABLE BORDER BGCOLOR="#ffffff">
+				<TR>
+				<TD> <img src="heismay.png"> </TD> <TD>Es un antiguo caballero de la tribu eugief , que se distingue por su apariencia y habilidades únicas, así como por su pequeña población, lo que hace que sean discriminados. Heismay no es una excepción a este prejuicio, ya que lleva un pasado doloroso como una carga..</TD>
+				</TR>
+				<TR>
+				<TD>Arquetipo desbloqueado</TD><TD> Ladrón</TD>
+				</TR>
+				<TR>
+				<TD>Raza</TD><TD> Eugief</TD>
+				</TR>
+				<TR>
+				<TD>Procedencia</TD><TD> Pueblo eugief</TD>
+				</TR>
+				<TR>
+				<TD>Plato favorito</TD><TD> Fideos imbatibles</TD>
+				</TR>
+			</TABLE>
+			
+			<li/> <h2>Bardon</h2><br/>
+			<TABLE BORDER BGCOLOR="#ffffff">
+				<TR>
+				<TD> <img src="bardon.png"> </TD> <TD>Es el capitán del cuerpo de guardia en Martira. Es torpe, pero serio, y es uno de los seguidores del protagonista ..</TD>
+				</TR>
+				<TR>
+				<TD>Arquetipo desbloqueado</TD><TD> Comandante</TD>
+				</TR>
+				<TR>
+				<TD>Raza</TD><TD> Roussainte</TD>
+				</TR>
+				<TR>
+				<TD>Procedencia</TD><TD> Martira</TD>
+				</TR>
+				<TR>
+				<TD>Plato favorito</TD><TD> Larvas de gusano asadas</TD>
+				</TR>
+			</TABLE>
+			
+			<li/> <h2>Alonzo</h2><br/>
+			<TABLE BORDER BGCOLOR="#ffffff">
+				<TR>
+				<TD> <img src="alonzo.png"> </TD> <TD>Es experto en engañar a los demás, y sus objetivos siempre son los ricos sin escrúpulos. Nunca deja que nadie lea su mente, pero muestra un lado débil frente a su madre adoptiva, su única familia. [1] Es uno de los seguidores del protagonista .</TD>
+				</TR>
+				<TR>
+				<TD>Arquetipo desbloqueado</TD><TD> Farsante</TD>
+				</TR>
+				<TR>
+				<TD>Raza</TD><TD> Nidia</TD>
+				</TR>
+				<TR>
+				<TD>Procedencia</TD><TD> Región de Oceana</TD>
+				</TR>
+				<TR>
+				<TD>Plato favorito</TD><TD> Hidromiel milagroso</TD>
+				</TR>
+			</TABLE>
+			
+			<li/> <h2>Junah</h2><br/>
+			<TABLE BORDER BGCOLOR="#ffffff">
+				<TR>
+				<TD> <img src="junah.png"> </TD> <TD>Ella es una cantante de la tribu nidia conocida por tener la voz más hermosa del Reino Unido de Euchronia . Ella tiene un trasfondo privado; es una espía de la Resistencia que se infiltra en la facción de Louis Guiabern y se rumorea que es su amante. [1].</TD>
+				</TR>
+				<TR>
+				<TD>Arquetipo desbloqueado</TD><TD> Bailarín enmascarado</TD>
+				</TR>
+				<TR>
+				<TD>Raza</TD><TD> Nidia</TD>
+				</TR>
+				<TR>
+				<TD>Procedencia</TD><TD> Lugar ignoto calcinado en la guerra</TD>
+				</TR>
+				<TR>
+				<TD>Plato favorito</TD><TD> Secreto</TD>
+				</TR>
+			</TABLE>
+			
+			<li/> <h2>Eupha</h2><br/>
+			<TABLE BORDER BGCOLOR="#ffffff">
+				<TR>
+				<TD> <img src="eupha.png"> </TD> <TD>es una sacerdotisa de la tribu mustari , en una posición similar a la de una princesa; dentro de las creencias indígenas a las que se adhieren muchos de los mustari, se la considera sagrada como figura central y se le ha confiado un objeto sagrado especial. Ella es específicamente una sacerdotisa de la "Religión del Dios Dragón", y se le permite encontrarse cara a cara con ese dios y comunicarse con ellos.</TD>
+				</TR>
+				<TR>
+				<TD>Arquetipo desbloqueado</TD><TD> Invocador</TD>
+				</TR>
+				<TR>
+				<TD>Raza</TD><TD>Mustari</TD>
+				</TR>
+				<TR>
+				<TD>Procedencia</TD><TD> Isla Virgo</TD>
+				</TR>
+				<TR>
+				<TD>Plato favorito</TD><TD> Guiso dorado todopoderoso</TD>
+				</TR>
+			</TABLE>
+			
+			<li/> <h2>Basilio</h2><br/>
+			<TABLE BORDER BGCOLOR="#ffffff">
+				<TR>
+				<TD> <img src="basilio.png"> </TD> <TD>Miembro de la tribu Paripus , Basilio actúa como ejecutivo en el ejército privado de Louis Guiabern . El hermano menor de Fidelio , Basilio tiene confianza absoluta en el juicio de su hermano mayor..</TD>
+				</TR>
+				<TR>
+				<TD>Arquetipo desbloqueado</TD><TD> Berserker</TD>
+				</TR>
+				<TR>
+				<TD>Raza</TD><TD> Paripús</TD>
+				</TR>
+				<TR>
+				<TD>Procedencia</TD><TD> Barrio bajo</TD>
+				</TR>
+				<TR>
+				<TD>Plato favorito</TD><TD>Tarta de miel indestructible</TD>
+				</TR>
+			</TABLE>
+			
+		</ul>
+		<br/>
+		
+		<h1><b><A ID = "arquetipos"> 2.Arquetipos </A><b/></h1>
+		<h2>Explorador</h2><br/>
+		<p>Arquetipo desbloqueado al conocer a More, versatil (magia, curación y daño físico).</p><br/>
+		Al alcanzar el rango 3 y 7 de vinculo desbloqueas sus mejoras de clase: el buscamagia y el robaalmas respectivamente.
+		
+		<h2>Mago</h2><br/>
+		<p>Arquetipo desbloqueado al comenzar el desarrollo de vinculo con Gallica, arquetipo debil con mucho daño mágico .</p><br/>
+		Al alcanzar el rango 3 y 8 desbloqueas sus mejoras de clase: el archimago y el maestro elemental y el brujo respectivamente.
+		<h2>Guerrero</h2><br/>
+		<p>Arquetipo desbloqueado al convencer a Strohl de que se una a tu causa, arquetipo con una resistencia media y fuerte daño físico.</p><br/>
+		Al alcanzar el rango 3 y 7 desbloqueas sus mejoras de clase: el maestro espadachín y el samurai respectivamente.
+		<h2>Sanador</h2><br/>
+		<p>Arquetipo desbloqueado al comenzar el desarrollo de vinculo con Maria, arquetipo debil con magia sagrada y curativa.</p><br/>
+		Al alcanzar el rango 3 y 8 desbloqueas sus mejoras de clase: el clerigo y el salvador respectivamente.
+		<h2>Caballero</h2><br/>
+		<p>Arquetipo desbloqueado al convencer a Hulkenberg de que se una a tu causa, arquetipo con una resistencia alta, daño penetrante medio y habilidades curativas.</p><br/>
+		Al alcanzar el rango 3 y 7 desbloqueas sus mejoras de clase: el caballero mágico y el paladín y el caballero oscuro respectivamente.
+		<h2>Luchador</h2><br/>
+		<p>Arquetipo desbloqueado al comenzar el desarrollo de vinculo con Catherina, arquetipo con resistencia media y fuerte daño físico usando PS en vez de PM.</p><br/>
+		Al alcanzar el rango 3 y 8 desbloqueas sus mejoras de clase: el púgil y el artista marcial respectivamente.
+		<h2>Mercader</h2><br/>
+		<p>Arquetipo desbloqueado al comenzar el desarrollo de vinculo con Brigitta, arquetipo debil tanto en daño como en resistencia, pero te permite consegir mas dinero, magla y objetos en los combates.</p><br/>
+		Al alcanzar el rango 8 desbloqueas su mejora de clase: el magnate.
+		<h2>Pistolero</h2><br/>
+		<p>Arquetipo desbloqueado al comenzar el desarrollo de vinculo con Neuras,arquetipo debil con un gran daño penetrante(físico), solo si esta en la retaguardia.</p><br/>
+		Al alcanzar el rango 3 y 8 desbloqueas sus mejoras de clase: el francotirador y el dragón respectivamente.
+		<h2>Ladrón</h2><br/>
+		<p>Arquetipo desbloqueado al convencer a Heismay de que se una a tu causa, arquetipo con una resistencia media con alta evasión y daño medio y variado con probabilidad de poner efectos de estado.</p><br/>
+		Al alcanzar el rango 3 y 7 desbloqueas sus mejoras de clase: el asesino y el ninja respectivamente.
+		<h2> Comandante</h2><br/>
+		Arquetipo desbloqueado al comenzar el desarrollo de vinculo con Bardon,arquetipo con una resistencia media, daño leve con probabilidad de poner efectos de estado y poner mejoras en los aliados.</p><br/>
+		Al alcanzar el rango 3 y 8 desbloqueas sus mejoras de clase: el general y el caudillo respectivamente.
+		<h2> Farsante</h2><br/>
+		Arquetipo desbloqueado al comenzar el desarrollo de vinculo con Bardon,arquetipo con una resistencia media, daño leve y despotenciar a los enemigos.</p><br/>
+		Al alcanzar el rango 8 desbloqueas su mejora de clase: el embaucador.
+		<h2>Bailarín enmascarado</h2><br/>
+		<p>Arquetipo desbloqueado al terminar la primera misión secundaria de Junah, arquetipo comodín(con las máscaras puede usar los atributo sy habilidades del resto de arquetipos).</p><br/>
+		Al alcanzar el rango 8 desbloqueas su mejora de clase: el maestro de personas.
+		<h2>Invocador</h2><br/>
+		<p>Arquetipo desbloqueado al terminar la primera misión secundaria de Eupha, arquetipo con resistencia media y daño comodín(con las invocaciones tiene un daño variado con efectos de estado y despotenciadores).</p><br/>
+		Al alcanzar el rango 8 desbloqueas su mejora de clase: el invocador de demonios.
+		<h2>Berserker</h2><br/>
+		<p>Arquetipo desbloqueado al terminar la primera misión secundaria de Basilio, arquetipo muy resistente con gran daño físico.</p><br/>
+		Al alcanzar el rango 8 desbloqueas su mejora de clase: el destructor.
+		<br/>
+		
+		<h1><b><A ID = "ciudades"> 3.Ciudades </A><b/></h1>
+		<h2>Gran Trad</h2><br/>
+		
+		<h2>Martira</h2><br/>
+		
+		<h2>Brilehaven</h2><br/>
+		
+		<h2>Isla Virgo</h2><br/>
+		
+		<h2>Altabury</h2><br/>
+		
+		<br/>
+		<footer>
+		
+		©copyright Lucas 2024
+		</footer>
+	</body>
+</html>
